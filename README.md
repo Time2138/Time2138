@@ -18,8 +18,8 @@ SCP Event Classified Middle Developer
 ### Some info
 🎉: 18 August 20**
 📧: timersky@northfoxgames.ru
-![Static Badge](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20Russian?style=flat)
-![Static Badge](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English?style=flat)
+🇷🇺 Russian
+🇬🇧 English
 
 ### 📈 GitHub Activity Graph
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Time2138&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
