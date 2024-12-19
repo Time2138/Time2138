@@ -2,7 +2,7 @@
 ## I'm Ivan Timersky
 
 NorthFox Games CEO\
-SCP Event Classified Middle Developer\
+SCP Event Classified Middle Developer
 
 ### Languages and Tools
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
@@ -18,7 +18,7 @@ SCP Event Classified Middle Developer\
 🎉: 18 August 20**\
 📧: timersky@northfoxgames.ru\
 🇷🇺 Russian\
-🇬🇧 English\
+🇬🇧 English
 
 ### 📈 GitHub Activity Graph
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Time2138&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
