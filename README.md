@@ -1,7 +1,6 @@
 ## Hi there 👋
 ## I'm Ivan Timersky
 
-NorthFox Games CEO\
 SCP Event Classified Middle Developer
 
 ### Languages and Tools
